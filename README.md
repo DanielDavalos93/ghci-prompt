@@ -1,2 +1,2 @@
 # ghci-prompt
-![2023-02-17-184526_1366x768_scrot](https://user-images.githubusercontent.com/93288354/219799793-1293c84b-0346-4e83-a05c-7cebabb0ae19.png)
+![2023-02-17-184648_1366x768_scrot](https://user-images.githubusercontent.com/93288354/219800116-72935fd1-29ee-4d84-a997-3de7e4f5baff.png)
